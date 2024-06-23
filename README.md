@@ -2,7 +2,7 @@ FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE
 
 
 ```bash
-sudo apt install -y git && git clone https://github.com/flaviokalleu/instalador-whaticket && sudo chmod -R 777 instalador-whaticket && cd instalador-whaticket && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/cassmach/novo_whaticket && sudo chmod -R 777 novo_whaticket && cd novo_whaticket && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
